@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sarah-Lababidi
 - 👀 I’m interested in web development and data science
-- 🌱 I’m currently taking the IBM Data Science Professional Certificate
-- 💞️ I’m looking for freelancing react projects
+- 💞️ I’m looking for a part-time job as a junior React developer
 - 📫 How to reach me: kindly send an email to sarah.laba96@gmail.com
 
 <!---
